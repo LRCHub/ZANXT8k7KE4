@@ -1,0 +1,44 @@
+# DJ CHARI – GOKU VIBES
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:12.95] Sick Luke, Sick Luke
+[00:22.95] 
+[00:13.97] Ehi, a lei piacciono i miei dreadlocks
+[00:16.61] Quanti rapper nel mio Death Note
+[00:18.05] Dovrei fare un po' di detox
+[00:19.65] Ma faccio un tiro e vado al McDo'
+[00:21.64] Ai miei concerti sembra un flashmob
+[00:23.29] Sai che vinco certi jackpot
+[00:24.94] E che non sto con certi bla bla
+[00:26.10] Pesci pesci fanno ba-ba
+[00:28.72] La mia modella mangia yogurt
+[00:30.44] Tu sabes che sono Goku
+[00:32.28] Tu sabes che sono focus
+[00:34.06] Li moltiplico, hocus pocus
+[00:35.84] Scemo, mica costa poco
+[00:37.43] 10K senza logo
+[00:39.48] Non comprendi, sembri troglo
+[00:41.35] Leggi un libro o guarda un docu
+[00:43.35] Ondeggio, oscillo
+[00:45.08] Ho il mezzo in obliquo
+[00:46.63] Disegno, ti abituo
+[00:48.41] Stipendio proficuo
+[00:50.41] Iniziato da dentro un garage
+[00:51.85] Ora sto a Deuxieme Étage
+[00:53.66] Ho sempre un escamotage
+[00:55.43] Il suo culo fa un derapage
+[00:57.42] Quanto è brutto avere tutto
+[00:58.93] Nei tuoi occhi zero fame
+[01:00.91] Estinguo rapper come il mutuo
+[01:02.68] Distinguo un frate' da un infame
+[01:04.53] Sei zeri nel mio deal
+[01:06.34] Sono happy come meal
+[01:08.33] Nuova villa, mamma mia
+[01:09.99] Tu sei scarso ma sei real
+[01:22.49] 
+[01:16.45] Uh, siete all'ascolto del Machete Mixtape Volume 4
+[01:20.99] Ah, il disco più fresco di tutta l'estate
+[01:25.05] Hai capito no?
+```
