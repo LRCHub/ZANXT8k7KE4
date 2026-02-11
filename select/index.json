@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "GOKU VIBES",
+  "base_artist": "DJ CHARI",
+  "createdAt": "2026-02-11T09:27:37.985713Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DJ CHARI & DJ TATSUKI - GOKU VIBES feat. Tohji, Elle Teresa, UNEDUCATED KID & Futuristic Swaver",
+      "artist": "AIR WAVES MUSIC",
+      "has_synced": true,
+      "path": "select/01_DJ_CHARI_&_DJ_TATSUKI_-_GOKU_VIBES_feat._Tohji,_Elle_Teresa,_UNEDUCATED_KID_&_Fu_AIR_WAVES_MUSIC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "goku vibes (feat. tohji, elle teresa, uneducated kid & futuristic swaver)",
+      "artist": "dj chari, dj tatsuki, tohji, elle teresa",
+      "has_synced": true,
+      "path": "select/02_goku_vibes_(feat._tohji,_elle_teresa,_uneducated_kid_&_futuristic_swaver)_dj_chari,_dj_tatsuki,_tohji,_elle_teresa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GOKU VIBES (feat. Tohji, Elle Teresa, UNEDUCATED KID & Futuristic Swaver)",
+      "artist": "DJ CHARI, DJ TATSUKI, Tohji, Elle Teresa, UNEDUCATED KID, Futuristic Swaver",
+      "has_synced": false,
+      "path": "select/03_GOKU_VIBES_(feat._Tohji,_Elle_Teresa,_UNEDUCATED_KID_&_Futuristic_Swaver)_DJ_CHARI,_DJ_TATSUKI,_Tohji,_Elle_Teresa,_UNEDUCATED_KID,_Futuristic_Swaver.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "GOKU VIBES",
+      "artist": "DJ CHARI",
+      "has_synced": false,
+      "path": "select/04_GOKU_VIBES_DJ_CHARI.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Goku vs Superman",
+      "artist": "Epic Rap Battles of History",
+      "has_synced": false,
+      "path": "select/05_Goku_vs_Superman_Epic_Rap_Battles_of_History.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Goku vs. Superman",
+      "artist": "Epic Rap Battles of History",
+      "has_synced": true,
+      "path": "select/06_Goku_vs._Superman_Epic_Rap_Battles_of_History.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Breaking Limits (Goku Rap)",
+      "artist": "Rustage",
+      "has_synced": false,
+      "path": "select/07_Breaking_Limits_(Goku_Rap)_Rustage.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Luffy Vs Goku (feat. Shao Dow)",
+      "artist": "Rustage feat. Shao Dow",
+      "has_synced": true,
+      "path": "select/08_Luffy_Vs_Goku_(feat._Shao_Dow)_Rustage_feat._Shao_Dow.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Luffy Vs Goku",
+      "artist": "Rustage/Shao Dow",
+      "has_synced": true,
+      "path": "select/09_Luffy_Vs_Goku_Rustage_Shao_Dow.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Feel Like Goku (Inspired by Dragon Ball Super)",
+      "artist": "Fabvl feat. Shwabadi",
+      "has_synced": true,
+      "path": "select/10_Feel_Like_Goku_(Inspired_by_Dragon_Ball_Super)_Fabvl_feat._Shwabadi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Feel Like Goku (Inspired by Dragon Ball Super)",
+      "artist": "Fabvl, Shwabadi",
+      "has_synced": true,
+      "path": "select/11_Feel_Like_Goku_(Inspired_by_Dragon_Ball_Super)_Fabvl,_Shwabadi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Goku vs Superman",
+      "artist": "Epic Rap Battles of History",
+      "has_synced": true,
+      "path": "select/12_Goku_vs_Superman_Epic_Rap_Battles_of_History.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Young Goku",
+      "artist": "Sol7 feat. DCOD & Mvdbeez",
+      "has_synced": true,
+      "path": "select/13_Young_Goku_Sol7_feat._DCOD_&_Mvdbeez.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Young Goku",
+      "artist": "Sol7, Dcod",
+      "has_synced": true,
+      "path": "select/14_Young_Goku_Sol7,_Dcod.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Black Goku (I Really Like You)",
+      "artist": "Supa Bwe",
+      "has_synced": false,
+      "path": "select/15_Black_Goku_(I_Really_Like_You)_Supa_Bwe.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "GOKU",
+      "artist": "MACHETE feat. Ghali & Sick Luke",
+      "has_synced": true,
+      "path": "select/16_GOKU_MACHETE_feat._Ghali_&_Sick_Luke.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "GOKU (prod. Sick Luke)",
+      "artist": "MACHETE",
+      "has_synced": true,
+      "path": "select/17_GOKU_(prod._Sick_Luke)_MACHETE.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "GOKU - prod. Sick Luke",
+      "artist": "MACHETE feat. Ghali & Sick Luke",
+      "has_synced": true,
+      "path": "select/18_GOKU_-_prod._Sick_Luke_MACHETE_feat._Ghali_&_Sick_Luke.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "GOKU (prod. Sick Luke)",
+      "artist": "Machete; Ghali; Sick Luke",
+      "has_synced": true,
+      "path": "select/19_GOKU_(prod._Sick_Luke)_Machete;_Ghali;_Sick_Luke.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "GOKU",
+      "artist": "Jaden",
+      "has_synced": true,
+      "path": "select/20_GOKU_Jaden.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Como son Goku",
+      "artist": "Verto",
+      "has_synced": false,
+      "path": "select/21_Como_son_Goku_Verto.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "GOKU (prod. Sick Luke) [Explicit]",
+      "artist": "MACHETE, Ghali & Sick Luke",
+      "has_synced": true,
+      "path": "select/22_GOKU_(prod._Sick_Luke)_[Explicit]_MACHETE,_Ghali_&_Sick_Luke.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GOKU VIBES",
+      "artist": "DJ CHARI & DJ TATSUKI",
+      "has_synced": false,
+      "path": "select/pl_01_GOKU_VIBES_DJ_CHARI_&_DJ_TATSUKI.txt"
+    }
+  ]
+}
